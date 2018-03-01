@@ -10,7 +10,7 @@
     "ios": {
       "bundleIdentifier": "com.nurpax.expbuild",
       "isRemoteJSEnabled": false,
-      "buildNumber": "1"
+      "buildNumber": "2"
     }
   }
 }
