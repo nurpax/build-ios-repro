@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "exp build repro",
+    "version": "1.0.0",
+    "sdkVersion": "25.0.0",
+    "ignoreNodeModulesValidation": true,
+    "icon": "./assets/icon.png",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.nurpax.expbuild",
+      "isRemoteJSEnabled": false,
+      "buildNumber": "1"
+    }
+  }
+}
