@@ -6,6 +6,7 @@
     "ignoreNodeModulesValidation": true,
     "icon": "./assets/icon.png",
     "sdkVersion": "25.0.0",
+    "slug": "com-nurpax-expbuild",
     "ios": {
       "bundleIdentifier": "com.nurpax.expbuild",
       "isRemoteJSEnabled": false,
